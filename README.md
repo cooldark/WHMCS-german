@@ -8,7 +8,7 @@ Deutsche Übersetzung für WHMCS.
 Incl. Addons
 
 
-LIZENZ
+Lizenz
 
 Dieser Inhalt ist unter der Creative-Commons-Lizenz vom Typ 
 Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Unported lizenziert. 
