@@ -6,7 +6,7 @@ German Translation of WHMCS
 Deutsche Übersetzung für WHMCS.
 Incl. Addons
 
-Kompatibel mit Version: 5.3.6
+Kompatibel mit Version: 5.3.7
 
 
 -------------------------------------------------------------------------------------------------------------
